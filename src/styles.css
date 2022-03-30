@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@500&family=Ubuntu+Mono&display=swap");
+
+.sidebar {
+  background-color: #fafbfd;
+  font-family: "Noto Sans", sans-serif;
+}
+h5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  color: #4f4f4f;
+  font-size: 24px;
+}
